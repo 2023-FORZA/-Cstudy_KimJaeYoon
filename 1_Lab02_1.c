@@ -7,3 +7,13 @@ int main() {
 	printf("%lld", a + b + c);
 	return 0;
 }
+//#include<stdio.h>
+
+//int main() {
+
+	//int A, B, C;
+	//scanf("%d%d%d", &A, &B, &C);
+	//printf("%d", A + B + C);
+	//return 0;
+
+//}
